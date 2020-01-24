@@ -29,8 +29,8 @@
   force = false
 
 [[redirects]]
-  from = "https://ramblinggeekuk.livecoders.dev"
-  to = "https://twitch.tv/ramblinggeekuk"
+  from = "https://ramblinggeek.livecoders.dev"
+  to = "https://twitch.tv/ramblinggeek"
   status = 301
   force = false
 
