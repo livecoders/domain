@@ -30,13 +30,13 @@
 
 [[redirects]]
   from = "https://ramblinggeekuk.livecoders.dev"
-  to = "https://twitch.tv/codebasealpha"
+  to = "https://twitch.tv/ramblinggeekuk"
   status = 301
   force = false
 
 [[redirects]]
   from = "https://iamnotmyself.livecoders.dev"
-  to = "https://twitch.tv/codebasealpha"
+  to = "https://twitch.tv/iamnotmyself"
   status = 301
   force = false
 
