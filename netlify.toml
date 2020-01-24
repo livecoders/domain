@@ -8,5 +8,5 @@
   from = "https://*.livecoders.dev"
   to = "https://twitch.tv/:splat"
   status = 301
-  force = true
+  force = false
 
