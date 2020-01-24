@@ -35,7 +35,7 @@
   force = false
 
 [[redirects]]
-  from = "https://iamnotmyself.livecoders.dev"
+  from = "https://notmyself.livecoders.dev"
   to = "https://twitch.tv/iamnotmyself"
   status = 301
   force = false
