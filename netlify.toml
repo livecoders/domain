@@ -35,6 +35,12 @@
   force = false
 
 [[redirects]]
+  from = "https://iamnotmyself.livecoders.dev"
+  to = "https://twitch.tv/codebasealpha"
+  status = 301
+  force = false
+
+[[redirects]]
   from = "/"
   to = "https://twitch.tv/team/livecoders"
   status = 301
