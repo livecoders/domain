@@ -5,6 +5,12 @@
   force = false
 
 [[redirects]]
+  from = "https://jitterted.livecoders.dev"
+  to = "https://twitch.tv/jitterted"
+  status = 301
+  force = false
+
+[[redirects]]
   from = "/"
   to = "https://twitch.tv/team/livecoders"
   status = 301
