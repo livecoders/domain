@@ -3,4 +3,10 @@
   to = "https://twitch.tv/team/livecoders"
   status = 301
   force = false
+	
+[[redirects]]
+  from = "csharpfritz.livecoders.dev"
+  to = "https://twitch.tv/csharpfritz"
+  status = 301
+  force = false
 
