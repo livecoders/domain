@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/"
+  to = "https://twitch.tv/team/livecoders"
+  status = 301
+  force = false
+
