@@ -5,8 +5,8 @@
   force = false
 	
 [[redirects]]
-  from = "https://*.livecoders.dev"
-  to = "https://twitch.tv/:splat"
+  from = "https://csharpfritz.livecoders.dev"
+  to = "https://twitch.tv/csharpfritz"
   status = 301
   force = false
 
