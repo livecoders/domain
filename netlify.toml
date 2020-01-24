@@ -5,7 +5,7 @@
   force = false
 	
 [[redirects]]
-  from = "csharpfritz.livecoders.dev"
+  from = "https://csharpfritz.livecoders.dev"
   to = "https://twitch.tv/csharpfritz"
   status = 301
   force = false
