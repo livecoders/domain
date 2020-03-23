@@ -51,4 +51,10 @@
   to = "https://twitch.tv/team/livecoders"
   status = 301
   force = false
+  
+[[redirects]]
+  from = "https://conf.livecoders.dev"
+  to = "https://captcalli.github.io/LiveCodersConf/"
+  status = 301
+  force = false
 	
